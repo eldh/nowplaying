@@ -29,7 +29,6 @@ header('Content-type: text/html; charset=UTF-8');
 	</div>
 	<div id="footer">
 		<div class="content">
-			 <a href="http://www.twitter.com/eldh">Follow @eldh on twitter.</a>
 		</div>
 	</div>
 </div>
